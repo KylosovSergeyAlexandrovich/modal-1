@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db5fff88-25dd-4bd2-be92-e51a8824e89a" name="Default" comment="" />
+    <list default="true" id="db5fff88-25dd-4bd2-be92-e51a8824e89a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,39 +29,9 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="e#17#73#0" expanded="false" />
-                <element signature="e#90#148#0" expanded="false" />
-                <element signature="e#165#225#0" expanded="false" />
-                <element signature="e#242#303#0" expanded="false" />
-                <element signature="e#322#326#0" expanded="false" />
-                <element signature="e#364#596#0" expanded="false" />
-                <element signature="e#615#763#0" expanded="false" />
-                <element signature="e#784#890#0" expanded="false" />
-                <element signature="e#907#926#0" expanded="false" />
-                <element signature="e#947#967#0" expanded="false" />
-                <element signature="e#986#1054#0" expanded="false" />
-                <element signature="e#1073#1280#0" expanded="false" />
-                <element signature="e#1293#1419#0" expanded="false" />
-                <element signature="e#1434#1485#0" expanded="false" />
-                <element signature="e#1506#1537#0" expanded="false" />
-                <element signature="e#1558#1585#0" expanded="false" />
-                <element signature="e#1600#1700#0" expanded="false" />
-                <element signature="e#1712#1737#0" expanded="false" />
-                <element signature="e#1759#1855#0" expanded="false" />
-                <element signature="e#1866#2285#0" expanded="false" />
-                <element signature="e#2305#2329#0" expanded="false" />
-                <element signature="e#2346#2468#0" expanded="false" />
-                <element signature="e#2483#2560#0" expanded="false" />
-                <element signature="e#2582#2603#0" expanded="false" />
-                <element signature="e#2617#2697#0" expanded="false" />
-                <element signature="e#2714#2734#0" expanded="false" />
-                <element signature="e#2754#2776#0" expanded="false" />
-                <element signature="e#2801#3198#0" expanded="false" />
-                <element signature="e#3231#3299#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="633">
+              <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +99,9 @@
       <dir>C:\Users\formo\OneDrive\Рабочий стол\dev\img</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -167,11 +144,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="801" />
-    <option name="width" value="1123" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3057" />
+    <option name="width" value="787" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -187,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +186,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,22 +260,23 @@
       <workItem from="1600172147571" duration="10413000" />
       <workItem from="1600248060639" duration="1072000" />
       <workItem from="1600267506000" duration="173000" />
+      <workItem from="1600419959249" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200565000" />
+    <option name="totallyTimeSpent" value="200876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="801" y="0" width="1123" height="1047" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22013171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12686567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -452,39 +431,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#73#0" expanded="false" />
-            <element signature="e#90#148#0" expanded="false" />
-            <element signature="e#165#225#0" expanded="false" />
-            <element signature="e#242#303#0" expanded="false" />
-            <element signature="e#322#326#0" expanded="false" />
-            <element signature="e#364#596#0" expanded="false" />
-            <element signature="e#615#763#0" expanded="false" />
-            <element signature="e#784#890#0" expanded="false" />
-            <element signature="e#907#926#0" expanded="false" />
-            <element signature="e#947#967#0" expanded="false" />
-            <element signature="e#986#1054#0" expanded="false" />
-            <element signature="e#1073#1280#0" expanded="false" />
-            <element signature="e#1293#1419#0" expanded="false" />
-            <element signature="e#1434#1485#0" expanded="false" />
-            <element signature="e#1506#1537#0" expanded="false" />
-            <element signature="e#1558#1585#0" expanded="false" />
-            <element signature="e#1600#1700#0" expanded="false" />
-            <element signature="e#1712#1737#0" expanded="false" />
-            <element signature="e#1759#1855#0" expanded="false" />
-            <element signature="e#1866#2285#0" expanded="false" />
-            <element signature="e#2305#2329#0" expanded="false" />
-            <element signature="e#2346#2468#0" expanded="false" />
-            <element signature="e#2483#2560#0" expanded="false" />
-            <element signature="e#2582#2603#0" expanded="false" />
-            <element signature="e#2617#2697#0" expanded="false" />
-            <element signature="e#2714#2734#0" expanded="false" />
-            <element signature="e#2754#2776#0" expanded="false" />
-            <element signature="e#2801#3198#0" expanded="false" />
-            <element signature="e#3231#3299#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="633">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -36,13 +36,13 @@ body {
     /*width:100%;*/
     background-position: top;
     background-size: 100%;
-    padding: 170px 0 0 0;
+    padding: 170px 0 170px 0;
 }
 .modal-up-balance {
     position: relative;
     max-width: 1265px;
     margin: 0 auto;
-    height: 770px;
+    /*height: 770px;*/
     background: rgb(146,181,139);
     border-radius: 20px;
 }
