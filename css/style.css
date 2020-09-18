@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.card-angle-t-l {
+    position: absolute;
+    top:5px;
+    left: 10px;
+}
+.card-angle-t-r {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+.card-angle-b-l {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
+.card-angle-b-r {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+.card-angle-width {
+
+}
+
+/* модолки */
+
+.bg-modal-up-balance {
+    background: url('../img/bg-modal-up-balance-1920.jpg') no-repeat;
+    content:"";
+    z-index:0;
+    /*min-height:100%;*/
+    /*width:100%;*/
+    background-position: top;
+    background-size: 100%;
+    padding: 170px 0 0 0;
+}
+.modal-up-balance {
+    position: relative;
+    max-width: 1265px;
+    margin: 0 auto;
+    height: 770px;
+    background: rgb(146,181,139);
+    border-radius: 20px;
+}
+.up-balance-content {
+    padding: 45px 27px 20px 27px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.up-balance-img {
+    width: 45%;
+}
+.up-balance-img img {
+    width: 100%;
+}
+.up-balance-block {
+    position: relative;
+    width: 50%;
+    padding: 30px 0 0 0;
+}
+.title-up-balance {
+    text-align: center;
+    color: darkred;
+    /*font-size: 68px;*/
+    font-size: 4vw;
+    font-family: ArnoPro-Bold, Arial, sans-serif;
+    max-width: 320px;
+    margin: 0 auto;
+    line-height: 52px;
+}
+.intro-text {
+    margin: 28px 0 0 0;
+    text-align: center;
+    font-size: 19px;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+}
+.balance-cost {
+    text-align: center;
+    margin: 35px 0 0 0;
+}
+.balance-cost a img {
+    vertical-align: bottom;
+}
+.balance-cost a + a {
+    margin: 0 0 0 64px;
+}
+.balance-user {
+    color: darkred;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin: 0px 0 0 16px;
+}
+.cost-coin {
+    font-weight: 900;
+}
+.choice-amount-money {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px 0 0 0;
+}
+.btn-cost {
+    border-radius: 10px;
+    font-size: 28px;
+    color: #48240a;
+    border-top: 3px solid #9a4109;
+    padding: 17px 20px !important;
+    background: linear-gradient(0deg,#a94700,#e1690c 50%,#efdfcb);
+    background-size: 200% auto;
+    box-shadow: 0 4px 9px -1px #574b34;
+    transition: .5s;
+    font-family: ArnoPro-Bold, Arial, sans-serif;
+    border-right: none;
+    border-bottom: none;
+    cursor: pointer;
+}
+
+.btn-cost:active  {
+    background: red;
+}
+.accept-payment {
+    text-align: center;
+    margin: 23px 0 0 0;
+    font-size: 19px;
+    font-family: monospace;
+    font-weight: 600;
+}
+.warning-text {
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.user-agreement-link {
+    color: black;
+}
+.close-modal {
+    position: absolute;
+    right: 44px;
+    top: 47px;
+    cursor: pointer;
+}
+
+
+.btn-margin-5 {
+    margin: 5px;
+}
+
+input[type=radio] {
+    display: none;
+}
+input[type=radio]+label {
+    /*display: inline-block;*/
+    /*margin: -2px;*/
+    /*padding: 4px 12px;*/
+    /*margin-bottom: 0;*/
+    /*font-size: 14px;*/
+    /*line-height: 20px;*/
+    /*color: #333;*/
+    /*text-align: center;*/
+    /*text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);*/
+    /*vertical-align: middle;*/
+    /*cursor: pointer;*/
+    /*background-color: #f5f5f5;*/
+    /*background-repeat: repeat-x;*/
+}
+input[type=radio]:checked+label {
+    background-image: none;
+    outline: 0;
+    background: red;
+}

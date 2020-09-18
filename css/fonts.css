@@ -1,0 +1,35 @@
+/*  толстый шрифт 900 */
+@font-face {
+    font-family: 'ArnoPro-Bold';
+    src: url('../fonts/ArnoPro-Bold.otf');
+}
+/* толстый с наклоном */
+@font-face {
+    font-family: 'ArnoPro-BoldItalic';
+    src: url('../fonts/ArnoPro-BoldItalic.otf');
+}
+ /* тонкий с наклоном */
+@font-face {
+    font-family: 'ArnoPro-Italic';
+    src: url('../fonts/ArnoPro-Italic.otf');
+}
+/* тонкий шрифт */
+@font-face {
+    font-family: 'ArnoPro LightDisplay';
+    src: url('../fonts/arnopro-lightdisplay.otf');
+}
+/* чуть толще  */
+@font-face {
+    font-family: 'ArnoPro-Regular';
+    src: url('../fonts/ArnoPro-Regular.otf');
+}
+/* толстый 600  */
+@font-face {
+    font-family: 'ArnoPro-Smbd';
+    src: url('../fonts/ArnoPro-Smbd.otf');
+}
+/* толстый 600 с наклоном  */
+@font-face {
+    font-family: 'ArnoPro-SmbdItalic';
+    src: url('../fonts/ArnoPro-SmbdItalic.otf');
+}

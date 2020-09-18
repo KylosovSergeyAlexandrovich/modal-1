@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db5fff88-25dd-4bd2-be92-e51a8824e89a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#17#73#0" expanded="false" />
+                <element signature="e#90#148#0" expanded="false" />
+                <element signature="e#165#225#0" expanded="false" />
+                <element signature="e#242#303#0" expanded="false" />
+                <element signature="e#322#326#0" expanded="false" />
+                <element signature="e#364#596#0" expanded="false" />
+                <element signature="e#615#763#0" expanded="false" />
+                <element signature="e#784#890#0" expanded="false" />
+                <element signature="e#907#926#0" expanded="false" />
+                <element signature="e#947#967#0" expanded="false" />
+                <element signature="e#986#1054#0" expanded="false" />
+                <element signature="e#1073#1280#0" expanded="false" />
+                <element signature="e#1293#1419#0" expanded="false" />
+                <element signature="e#1434#1485#0" expanded="false" />
+                <element signature="e#1506#1537#0" expanded="false" />
+                <element signature="e#1558#1585#0" expanded="false" />
+                <element signature="e#1600#1700#0" expanded="false" />
+                <element signature="e#1712#1737#0" expanded="false" />
+                <element signature="e#1759#1855#0" expanded="false" />
+                <element signature="e#1866#2285#0" expanded="false" />
+                <element signature="e#2305#2329#0" expanded="false" />
+                <element signature="e#2346#2468#0" expanded="false" />
+                <element signature="e#2483#2560#0" expanded="false" />
+                <element signature="e#2582#2603#0" expanded="false" />
+                <element signature="e#2617#2697#0" expanded="false" />
+                <element signature="e#2714#2734#0" expanded="false" />
+                <element signature="e#2754#2776#0" expanded="false" />
+                <element signature="e#2801#3198#0" expanded="false" />
+                <element signature="e#3231#3299#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/fonts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>За персонаем стоят более млн тарлогов</find>
+      <find>font-family</find>
+      <find>.top-object a</find>
+      <find>top-object</find>
+      <find>как это</find>
+      <find>.card-day-img</find>
+      <find>container-2</find>
+      <find>charset</find>
+      <find>bg.png</find>
+      <find>img/</find>
+      <find>ArnoPro-Regular</find>
+      <find>.fix-btn-direction</find>
+      <find>mobil-br</find>
+      <find>.about-us-title</find>
+      <find>pres</find>
+      <find>.articles-title-block</find>
+      <find>present</find>
+      <find>.title-reviews-block</find>
+      <find>360</find>
+      <find>вопрос</find>
+      <find>title-works-block</find>
+      <find>d915c7604be20466</find>
+      <find>material_tpl</find>
+      <find>поле</find>
+      <find>map_menu</find>
+      <find>.introduction</find>
+      <find>.intro-present</find>
+      <find>ul li</find>
+      <find>.intro-present-fix-btn</find>
+      <find>bg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>bg.jpg</replace>
+      <replace>css/new/img/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\formo\OneDrive\Рабочий стол\dev\img</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asd.js" />
+        <option value="$PROJECT_DIR$/asdsadsadsadsad.html" />
+        <option value="$PROJECT_DIR$/xzcxzcxzczcx.html" />
+        <option value="C:/проекты/unimiles.ru/robots.txt" />
+        <option value="$PROJECT_DIR$/../robots.txt" />
+        <option value="$PROJECT_DIR$/fonts/Romul-ttf.ttf" />
+        <option value="$PROJECT_DIR$/fonts/ofont.ru_Romul.ttf" />
+        <option value="$PROJECT_DIR$/шаблон.php" />
+        <option value="$PROJECT_DIR$/было.php" />
+        <option value="$PROJECT_DIR$/js.js" />
+        <option value="$PROJECT_DIR$/был шаблон.html" />
+        <option value="$PROJECT_DIR$/asdasd.php" />
+        <option value="$PROJECT_DIR$/стало.php" />
+        <option value="$PROJECT_DIR$/fgdfgdfg.css" />
+        <option value="$PROJECT_DIR$/css/mobile.css" />
+        <option value="$PROJECT_DIR$/новый шаблон.html" />
+        <option value="$PROJECT_DIR$/../Header.html" />
+        <option value="$PROJECT_DIR$/мой.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/14.09.2020.css" />
+        <option value="$PROJECT_DIR$/шаблон - 14.09.2020.html" />
+        <option value="$PROJECT_DIR$/их.html" />
+        <option value="$PROJECT_DIR$/mobole-14.09.2020.css" />
+        <option value="$PROJECT_DIR$/modal/moadl-up-balance.html" />
+        <option value="$PROJECT_DIR$/css - sryle - 14.09.2020.css" />
+        <option value="$PROJECT_DIR$/css/fonts.css" />
+        <option value="$PROJECT_DIR$/modal/moadal-up-balance.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="801" />
+    <option name="width" value="1123" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="modal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="modal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="modal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\formo\OneDrive\Рабочий стол\modal\img" />
+      <recent name="C:\Users\formo\OneDrive\Рабочий стол\dev\img" />
+      <recent name="C:\Users\formo\OneDrive\Рабочий стол\dev\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\formo\OneDrive\Рабочий стол\dev\img" />
+      <recent name="C:\Users\formo\OneDrive\Рабочий стол\dev\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5fff88-25dd-4bd2-be92-e51a8824e89a" name="Default" comment="" />
+      <created>1597945764493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597945764493</updated>
+      <workItem from="1597945765598" duration="957000" />
+      <workItem from="1597994484301" duration="22208000" />
+      <workItem from="1598080108135" duration="11658000" />
+      <workItem from="1598171272126" duration="10124000" />
+      <workItem from="1598252490983" duration="12820000" />
+      <workItem from="1598335806834" duration="9017000" />
+      <workItem from="1598348415650" duration="8922000" />
+      <workItem from="1598421350936" duration="18260000" />
+      <workItem from="1598512705400" duration="20330000" />
+      <workItem from="1598597591151" duration="7061000" />
+      <workItem from="1598854736694" duration="10352000" />
+      <workItem from="1598896909070" duration="115000" />
+      <workItem from="1599065062232" duration="2223000" />
+      <workItem from="1599117743940" duration="611000" />
+      <workItem from="1599139457148" duration="3562000" />
+      <workItem from="1599204708904" duration="3248000" />
+      <workItem from="1599455050578" duration="2514000" />
+      <workItem from="1599540790547" duration="7869000" />
+      <workItem from="1599633333453" duration="12543000" />
+      <workItem from="1599725433425" duration="18000" />
+      <workItem from="1599739214293" duration="605000" />
+      <workItem from="1599808749526" duration="8544000" />
+      <workItem from="1600071135913" duration="12247000" />
+      <workItem from="1600160651075" duration="9000" />
+      <workItem from="1600168373344" duration="3090000" />
+      <workItem from="1600172147571" duration="10413000" />
+      <workItem from="1600248060639" duration="1072000" />
+      <workItem from="1600267506000" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="801" y="0" width="1123" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22013171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9051">
+          <caret line="431" column="19" lean-forward="true" selection-start-line="431" selection-start-column="19" selection-end-line="431" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7266">
+          <caret line="346" column="22" lean-forward="false" selection-start-line="346" selection-start-column="22" selection-end-line="346" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="250" column="45" lean-forward="false" selection-start-line="250" selection-start-column="45" selection-end-line="250" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/asd.js" />
+    <entry file="file://C:/OPS/OSPanel/domains/wedls-loc/views/user/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/Romul.ttf" />
+    <entry file="file://$PROJECT_DIR$/asdsadsadsadsad.html" />
+    <entry file="file://$PROJECT_DIR$/xzcxzcxzczcx.html" />
+    <entry file="file://$PROJECT_DIR$/img/Logo-1920.png" />
+    <entry file="file://C:/проекты/unimiles.ru/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../robots.txt" />
+    <entry file="file://$PROJECT_DIR$/img/logo-1920-v2.png" />
+    <entry file="file://$PROJECT_DIR$/img/bg.png" />
+    <entry file="file://$PROJECT_DIR$/img/up-1.png" />
+    <entry file="file://$PROJECT_DIR$/fonts/Romul-ttf.ttf" />
+    <entry file="file://$PROJECT_DIR$/fonts/ofont.ru_Romul.ttf" />
+    <entry file="file://$PROJECT_DIR$/fonts/Romul-font.ttf" />
+    <entry file="file://$PROJECT_DIR$/img/choice.png" />
+    <entry file="file://C:/OPS/OSPanel/domains/wedls-loc/views/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="633" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../strukturirovannye-kabelnye-sistemy/index.php" />
+    <entry file="file://$PROJECT_DIR$/шаблон.php" />
+    <entry file="file://$PROJECT_DIR$/было.php" />
+    <entry file="file://$PROJECT_DIR$/img/papyrus.png" />
+    <entry file="file://$PROJECT_DIR$/был шаблон.html" />
+    <entry file="file://$PROJECT_DIR$/../был шаблон.html" />
+    <entry file="file://$PROJECT_DIR$/стало.php" />
+    <entry file="file://$PROJECT_DIR$/было.php" />
+    <entry file="file://$PROJECT_DIR$/img/money-bag.png" />
+    <entry file="file://$PROJECT_DIR$/img/present-bg.png" />
+    <entry file="file://$PROJECT_DIR$/fgdfgdfg.css" />
+    <entry file="file://$PROJECT_DIR$/../Header.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/их.html" />
+    <entry file="file://$PROJECT_DIR$/мой.html" />
+    <entry file="file://$PROJECT_DIR$/шаблон - 14.09.2020.html" />
+    <entry file="file://$PROJECT_DIR$/mobole-14.09.2020.css" />
+    <entry file="file://$PROJECT_DIR$/css - sryle - 14.09.2020.css" />
+    <entry file="file://$PROJECT_DIR$/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="641" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="641" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/card-angle-b-l.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dev/шаблон - 14.09.2020.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="112" column="2" lean-forward="true" selection-start-line="112" selection-start-column="2" selection-end-line="127" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#73#0" expanded="false" />
+            <element signature="e#90#148#0" expanded="false" />
+            <element signature="e#165#225#0" expanded="false" />
+            <element signature="e#242#303#0" expanded="false" />
+            <element signature="e#322#326#0" expanded="false" />
+            <element signature="e#364#596#0" expanded="false" />
+            <element signature="e#615#763#0" expanded="false" />
+            <element signature="e#784#890#0" expanded="false" />
+            <element signature="e#907#926#0" expanded="false" />
+            <element signature="e#947#967#0" expanded="false" />
+            <element signature="e#986#1054#0" expanded="false" />
+            <element signature="e#1073#1280#0" expanded="false" />
+            <element signature="e#1293#1419#0" expanded="false" />
+            <element signature="e#1434#1485#0" expanded="false" />
+            <element signature="e#1506#1537#0" expanded="false" />
+            <element signature="e#1558#1585#0" expanded="false" />
+            <element signature="e#1600#1700#0" expanded="false" />
+            <element signature="e#1712#1737#0" expanded="false" />
+            <element signature="e#1759#1855#0" expanded="false" />
+            <element signature="e#1866#2285#0" expanded="false" />
+            <element signature="e#2305#2329#0" expanded="false" />
+            <element signature="e#2346#2468#0" expanded="false" />
+            <element signature="e#2483#2560#0" expanded="false" />
+            <element signature="e#2582#2603#0" expanded="false" />
+            <element signature="e#2617#2697#0" expanded="false" />
+            <element signature="e#2714#2734#0" expanded="false" />
+            <element signature="e#2754#2776#0" expanded="false" />
+            <element signature="e#2801#3198#0" expanded="false" />
+            <element signature="e#3231#3299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal/moadal-up-balance.html" />
+  </component>
+</project>
